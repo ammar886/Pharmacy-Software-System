@@ -1,4 +1,5 @@
 //Pharmacy Software
+//Developed by Ammar Khalid
 #include<iostream>
 using namespace std;
 
